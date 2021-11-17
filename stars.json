@@ -43,33 +43,33 @@
   },
   {
     "full_name": "ctubio/Krypto-trading-bot",
-    "stargazers_count": 2539,
+    "stargazers_count": 2546,
     "open_issues_count": 51,
-    "forks_count": 673
+    "forks_count": 674
   },
   {
     "full_name": "wardbradt/peregrine",
-    "stargazers_count": 826,
+    "stargazers_count": 830,
     "open_issues_count": 8,
     "forks_count": 254
   },
   {
     "full_name": "ccxt/ccxt",
-    "stargazers_count": 21928,
-    "open_issues_count": 652,
-    "forks_count": 5395
+    "stargazers_count": 22004,
+    "open_issues_count": 666,
+    "forks_count": 5412
   },
   {
     "full_name": "snyk/snyk",
-    "stargazers_count": 3515,
-    "open_issues_count": 148,
-    "forks_count": 391
+    "stargazers_count": 3522,
+    "open_issues_count": 153,
+    "forks_count": 392
   },
   {
     "full_name": "jofpin/trape",
-    "stargazers_count": 6694,
+    "stargazers_count": 6695,
     "open_issues_count": 211,
-    "forks_count": 1176
+    "forks_count": 1178
   },
   {
     "full_name": "kainite/CoinbaseConsoleApp",
@@ -79,15 +79,15 @@
   },
   {
     "full_name": "mirumee/saleor-platform",
-    "stargazers_count": 362,
+    "stargazers_count": 364,
     "open_issues_count": 40,
-    "forks_count": 450
+    "forks_count": 451
   },
   {
     "full_name": "CoinAlpha/hummingbot",
-    "stargazers_count": 3192,
-    "open_issues_count": 625,
-    "forks_count": 1074
+    "stargazers_count": 3214,
+    "open_issues_count": 650,
+    "forks_count": 1080
   },
   {
     "full_name": "go-faast/faast-web",
@@ -103,15 +103,15 @@
   },
   {
     "full_name": "openware/opendax",
-    "stargazers_count": 285,
-    "open_issues_count": 97,
-    "forks_count": 320
+    "stargazers_count": 287,
+    "open_issues_count": 95,
+    "forks_count": 322
   },
   {
     "full_name": "WWBN/AVideo",
-    "stargazers_count": 1463,
-    "open_issues_count": 85,
-    "forks_count": 841
+    "stargazers_count": 1467,
+    "open_issues_count": 84,
+    "forks_count": 842
   },
   {
     "full_name": "playsms/book-playsms",
@@ -121,9 +121,9 @@
   },
   {
     "full_name": "Idnan/bash-guide",
-    "stargazers_count": 10481,
+    "stargazers_count": 10486,
     "open_issues_count": 24,
-    "forks_count": 989
+    "forks_count": 990
   },
   {
     "full_name": "menon92/DL-Sneak-Peek",
@@ -133,7 +133,7 @@
   },
   {
     "full_name": "101t/jasmin-web-panel",
-    "stargazers_count": 28,
+    "stargazers_count": 27,
     "open_issues_count": 3,
     "forks_count": 41
   },
@@ -145,9 +145,9 @@
   },
   {
     "full_name": "OpenZeppelin/openzeppelin-contracts",
-    "stargazers_count": 13368,
+    "stargazers_count": 13458,
     "open_issues_count": 116,
-    "forks_count": 6750
+    "forks_count": 6804
   },
   {
     "full_name": "theanam/webaudio-oscilloscope",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "Hack-with-Github/Awesome-Hacking",
-    "stargazers_count": 47605,
+    "stargazers_count": 47656,
     "open_issues_count": 18,
-    "forks_count": 7465
+    "forks_count": 7475
   }
 ]
